@@ -1,0 +1,25 @@
+<!-- docs/_sidebar.md -->
+
+- **Get Started**
+  - [Prerequisite](/prerequistite)
+- **Basic**
+  - [Introduction](/basic)
+  - [Identity Provider](/idp)
+  - [Service Provider](/sp)
+  - [SAML Request](/saml-request)
+    - [Signed](/signed-saml-request)
+  - [SAML Response](/saml-response)
+    - [Signed](/signed-saml-response)
+    - [Encrypted](/encrypted-saml-response)
+- **Advanced**
+  - [Introduction](/advance)
+  - [Configuration](/configuration)
+  - [Attributes & Template](/template)
+  - [Helper Functions](/helpers)
+  - [Multiple Entities](/multi-entities)
+  - [Metadata Distribution](/metadata-distribution)
+- **Examples**
+  - [Gitlab](/gitlab)
+  - [OneLogin](/onelogin)
+  - [Okta](/okta)
+    - [Inbound SAML](/okta-inbound)
