@@ -16,13 +16,10 @@
     "docs": "docsify serve -o docs",
     "lint": "tslint -p .",
     "lint:fix": "tslint -p },
-  "contributors": [],
-  "author": "",
   "repository": {
     "url": "https://github.com/LynnZeng/saml-fix.git",
     "type": "git"
   },
-  "license": "",
   "dependencies": {
     "@passify/xml-encryption": "^0.11.1",
     "@passify/xsd-schema-validator": "^0.7.1",
